@@ -1,0 +1,14 @@
+body {
+	margin: 0;
+}
+.wrap {
+	padding: 3% 0 0 3%;
+}
+.square {
+	background-color: orange;
+	float: left;
+	padding: 30% 0 0 0;
+	width: 30%;
+	margin: 0 3% 3% 0;
+	border-radius: 10px;
+}
